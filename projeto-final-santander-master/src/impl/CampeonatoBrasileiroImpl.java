@@ -31,7 +31,6 @@ public class CampeonatoBrasileiroImpl {
                 .toList();
 
     }
-//inicio das alteraçoes
 
     public List<Jogo> lerArquivo() throws IOException {
 
